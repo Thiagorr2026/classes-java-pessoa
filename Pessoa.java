@@ -1,4 +1,4 @@
-________________________________________________________package Testes;
+package Testes;
 public class Pessoa {
 String nome;
 int idade;
